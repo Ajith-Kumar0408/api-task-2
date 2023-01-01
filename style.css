@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    background: rgb(38, 36, 36);
+
+}
+h1{
+    color: rgb(249, 244, 244);
+    font-size: 70px;
+    text-align: center;
+    justify-content: center;
+}
+.fa-solid.fa-book{
+    color: rgb(237, 82, 82);
+    font-size: 90px;
+}
+h1 span{
+    color: rgb(239, 243, 29);
+}
+input{
+    margin-left: 35%;
+    padding-left: 150px;
+    color: white;
+    font-size: 28px;
+    background-color: aliceblue;
+
+}
+button{
+    color: rgb(9, 97, 122);
+    background-color: aqua;
+    font-size: 20px;
+    margin-left: 50%;
+    margin-top: 20px;
+}
